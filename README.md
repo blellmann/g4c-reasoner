@@ -11,6 +11,17 @@ Portal](https://www.usp.gv.at/en/index.html).
 *g4c-reasoner* is written in [Scryer Prolog](https://www.scryer.pl), a
 strongly ISO-conformant and freely available Prolog implementation.
 
+Related articles:
+- The implementation is
+described in the article [Grants4Companies: Applying
+Declarative Methods for Recommending and Reasoning about Business Grants
+in the Austrian Public Administration (System Description)](https://doi.org/10.1007/978-981-97-2300-3_9) 
+(FLOPS2024; see also the [Preprint
+version](https://doi.org/10.48550/arXiv.2406.15293))
+- An interface to
+the prover is also described in [Grants4Companies: The Common Lisp PoC](https://doi.org/10.5281/zenodo.10992449)
+(European Lisp Symposium 2024).
+
 
 ## Usage
 
